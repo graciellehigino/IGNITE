@@ -22,7 +22,7 @@ Although we have amazing communicators doing their jobs in SciComm, **we need sc
   
 SciComm is an interdisciplinary field and this is how this project was born: **why not gather people with different skills to build a comprehensive SciComm workshop aimed at young<sup>[1](#young)</sup> scientists**?
 
-## Who am I?  
+#### Who am I?  
 [I am a grad student from Brazil](https://graciellehigino.github.io/) and I've been concerned about SciComm for years. When I was a teenager (already dreaming about being a scientist), I thought that would be great to write about science, and make it fun and accessible. Then I grew up, became a scientist, and now I write and talk about it! But, as most scientists, I was not trained to do it, but fortunately I've met amazing people in my journey who helped me. That's why this project is so important to me!  
 
 ## How can you help?  
