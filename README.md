@@ -51,4 +51,5 @@ If you have any questions, suggestions or jokes to share, you can simply [open a
 
 #### I hope IGNITE inspires you! 🧡
 
+---
 <a name="young">1</a>: "Young" here refers to a state of mind. 😉
