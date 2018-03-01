@@ -33,7 +33,7 @@ The first thing is to know what scientists need to start doing SciComm. What are
 To do that, we will elaborate a couple of surveys and collect some data. YAY! 🎉  
 
 #### Build the workshop  
-The main need is to build a "starter kit" with the main content of the workshop and guidelines to promote one. This kit will be composed by courseware, activites, resources and a simple organizer workflow (see details on Issues).  
+The main need is to build a "starter kit" with the main content of the workshop and guidelines to promote one. This kit will be composed by courseware, activites, resources and a simple organizer workflow (see details on [Issues](https://github.com/graciellehigino/IGNITE/issues)).  
 
 #### Bring your ideas!  
 Bring your creative ideas to make the whole program even better! We will need a visual identity, a website, to build content, to spread the word, prospect funding, write funding proposals, prospect experts in each field to participate as lecturers, and we could also think about puting up an incentive program to encourage scientists to keep in the SciComm path... Phew!  
