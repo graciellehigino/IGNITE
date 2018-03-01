@@ -2,7 +2,7 @@
   
 **_Fun, short, crowdsourced and reproducible SciComm workshop aimed at young scientists._**  
 
-[*Versão em português (BR) aqui.*](https://github.com/graciellehigino/IGNITE/blob/master/README_pt-br.md)
+[*Versão em português (BR) aqui.*](https://github.com/graciellehigino/IGNITE/blob/master/README_pt-br)
 
 ## Welcome! 
 I am truly happy to see you here! This is a completly open project, and you can copy, contribute, replicate, reproduce, cut it in half, glue it together, put some glitter on it... and make it even better! Here you can find resources to promote a fun Science Communication workshop (or even study by yourself!). So if you love SciComm and Outreach, jump right in and I am certain that you will find something useful in this repository. Enjoy!  
