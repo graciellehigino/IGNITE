@@ -7,10 +7,10 @@
 ## Bem-vindo! 
 Eu estou muito feliz em ver você aqui! Este é um projeto completamente aberto, e você pode copiar, contribuir, replicar, reproduzir, cortar ao meio, colar de volta, colocar gliter em cima... e fazê-lo ainda melhor! Aqui você encontrá recursos para promover um curso prático divertido de divulgação científica (ou mesmo estudar sozinho/sozinha!). Então se você ama divilgação científica, vem comigo, que eu tenho certeza de que você vai encontrar alguma coisa útil pra você neste repositório. Divirta-se!  
 
-* [Por que este projeto existe?](#porque-este-projeto-existe)  
+* [Por que este projeto existe?](#por-que-este-projeto-existe)  
 * [Quem sou eu?](#quem-sou-eu)  
-* [Como você pode ajudar a construir o curso?](#como-voce-pode-ajudar)  
-* [Como você pode usar o curso?](#como-voce-pode-usar-o-curso)  
+* [Como você pode ajudar a construir o curso?](#como-você-pode-ajudar)  
+* [Como você pode usar o curso?](#como-você-pode-usar-o-curso)  
 * [Quer saber mais?](#quer-saber-mais)  
 * [Entre em contato!](#contato)  
   
