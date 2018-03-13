@@ -5,7 +5,7 @@ And most importantly: **don't forget to have _TONS_ of fun!**
 
 ### Surveys  
 We need two surveys: one to find out scientists' needs on SciComm training, and another one to assess how they are doing after the workshop.  
-- [ ] Pre-workshop survey  
+- [ ] [Pre-workshop survey](https://github.com/graciellehigino/IGNITE/issues/1)  
 - [ ] Post-workshop survey  
 
 ### Content  
