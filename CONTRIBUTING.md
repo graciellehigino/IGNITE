@@ -6,8 +6,8 @@
 
 #### Table Of Contents
 
-[Code of Conduct](#code-of-conduct)
-[Before you start](#before-you-start)
+[Code of Conduct](#code-of-conduct)  
+[Before you start](#before-you-start)  
 * [Project organization](#project-organization)  
 
 
@@ -24,16 +24,16 @@ This is a completly open project, and every contribution made to it is also comp
 
 Lessons  
 &nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_en/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Communication basics/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢activities/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢figs/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢slides/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢supp_material/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Writing/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Audio/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Videos/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Images/  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Talks/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Communication basics/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢activities/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢figs/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢slides/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢supp_material/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Writing/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Audio/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Videos/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Images/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Talks/  
 &nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_es/  
 &nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_pt/  
 &nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_.../  
@@ -43,9 +43,9 @@ Surveys
 &nbsp;&nbsp;&nbsp;&nbsp;pre-workshop_survey.md  
 &nbsp;&nbsp;&nbsp;&nbsp;post-workshop_survey.md  
 Additional resources  
-  ⊢funders/  
-   ask_for_funding.md  
-   potential_funders.md  
-  volunteers_experts.md  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢funders/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ask_for_funding.md  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;potential_funders.md  
+&nbsp;&nbsp;&nbsp;&nbsp;volunteers_experts.md  
 
 Each lesson subfolder has the same structure. This map can change through the project development, so take a look here once in a while.  
