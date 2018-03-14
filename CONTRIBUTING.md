@@ -9,7 +9,6 @@
 [Code of Conduct](#code-of-conduct)
 [Before you start](#before-you-start)
 * [Project organization](#project-organization)  
-* []()
 
 
 ## Code of Conduct
@@ -24,7 +23,7 @@ This is a completly open project, and every contribution made to it is also comp
 ### Project organization  
 
 Lessons  
-  ⊢Lessons_en/  
+  :⊢Lessons_en/  
     ⊢Communication basics/  
       ⊢activities/  
       ⊢figs/  
