@@ -23,25 +23,25 @@ This is a completly open project, and every contribution made to it is also comp
 ### Project organization  
 
 Lessons  
-&nbsp;⊢Lessons_en/  
-    ⊢Communication basics/  
-      ⊢activities/  
-      ⊢figs/  
-      ⊢slides/  
-      ⊢supp_material/  
-    ⊢Writing/  
-    ⊢Audio/  
-    ⊢Videos/  
-    ⊢Images/  
-    ⊢Talks/  
-  ⊢Lessons_es/  
-  ⊢Lessons_pt/  
-  ⊢Lessons_.../  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_en/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Communication basics/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢activities/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢figs/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢slides/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢supp_material/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Writing/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Audio/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Videos/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Images/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊢Talks/  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_es/  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_pt/  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢Lessons_.../  
 Surveys  
-  ⊢raw_data/  
-  ⊢cleaned_data/  
-  pre-workshop_survey.md  
-  post-workshop_survey.md  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢raw_data/  
+&nbsp;&nbsp;&nbsp;&nbsp;⊢cleaned_data/  
+&nbsp;&nbsp;&nbsp;&nbsp;pre-workshop_survey.md  
+&nbsp;&nbsp;&nbsp;&nbsp;post-workshop_survey.md  
 Additional resources  
   ⊢funders/  
    ask_for_funding.md  
