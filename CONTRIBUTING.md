@@ -49,3 +49,9 @@ Additional resources
 &nbsp;&nbsp;&nbsp;&nbsp;volunteers_experts.md  
 
 Each lesson subfolder has the same structure. This map can change through the project development, so take a look here once in a while.  
+### How to work on GitHub  
+
+If you're new to GitHub, take some time to understand how a repository works. Don't worry if you find it difficult, we can always help!  
+GitHub has its own [guides](https://guides.github.com/) which are really useful. Basically, you need to know how to [file an Issue](https://guides.github.com/features/issues/) and how to contribute directly to the core contents of the project by [submitting a pull request](https://guides.github.com/activities/forking/#making-a-pull-request). Please, be as clear as you can in both cases, describing what is the problem/suggestion/solution in details. Also, be sure that your suggestion/problem/solution was not addressed in another Issue before.
+
+###
