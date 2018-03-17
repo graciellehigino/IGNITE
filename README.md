@@ -39,7 +39,9 @@ The main need is to build a "starter kit" with the main content of the workshop 
 
 #### Bring your ideas!  
 Bring your creative ideas to make the whole program even better! We will need a visual identity, a website, to build content, to spread the word, prospect funding, write funding proposals, prospect experts in each field to participate as lecturers, and we could also think about puting up an incentive program to encourage scientists to keep in the SciComm path... Phew!  
-![Teamwork makes the dream work!](https://media.giphy.com/media/dRoBlcxAu4zNm/giphy.gif)
+![Teamwork makes the dream work!](https://media.giphy.com/media/dRoBlcxAu4zNm/giphy.gif)  
+
+**Please, read more about contribution in our [Contribution Guidelines](CONTRIBUTING.md), our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Roadmap](Roadmap.md).**
 
 ## How can you use it?  
 If you want to run the workshop in your city, you'll just need to download or fork the repository, adapt the content to your needs and follow the organizer wokflow suggestions (if you want to). I'll be really happy to recieve your feedback! Please, read our license to make sure you understand all the possibilities.  
