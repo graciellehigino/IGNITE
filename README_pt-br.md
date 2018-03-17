@@ -37,15 +37,18 @@ Para fazer isso, elaboraremos alguns questionários e coletaremos alguns dados. 
 O principal objetivo do projeto é construir um "kit inicial" com os principais conteúdos do curso e diretrizes para promover um. Este kit será composto por material didático, atividades, recursos e um guia para o organizador (veja detalhes no [Issues](https://github.com/graciellehigino/IGNITE/issues)).  
 
 #### Traga suas ideias!  
-Bring your creative ideas to make the whole program even better! We will need a visual identity, a website, to build content, to spread the word, prospect funding, write funding proposals, prospect experts in each field to participate as lecturers, and we could also think about puting up an incentive program to encourage scientists to keep in the SciComm path... Phew!  
-![Teamwork makes the dream work!](https://media.giphy.com/media/dRoBlcxAu4zNm/giphy.gif)
+Traga suas ideias criativas para fazer este projeto ainda melhor! Precisaremos de uma identidade visual, um website, construir conteúdo, divulgar tudo o que fazemos, procurar por financiamento, escrever projetos de financiamento, procurar por especialistas em cada área para participar como palestrantes no curso, e poderíamos pensar também em um programa de incentivo para encorajar os cientistas a permanecerem neste caminho da divulgação científica... Ufa!  
+![Teamwork makes the dream work!](https://media.giphy.com/media/dRoBlcxAu4zNm/giphy.gif)  
+
+**Por favor, leia mais sobre contribuições no nosso [Guia de Contribuições](CONTRIBUTING.md), nosso [Código de Conduta](CODE_OF_CONDUCT.md) e no nosso [Roadmap](Roadmap.md).**
 
 ## Como você pode usar o curso?  
-If you want to run the workshop in your city, you'll just need to download or fork the repository, adapt the content to your needs and follow the organizer wokflow suggestions (if you want to). I'll be really happy to recieve your feedback! Please, read our license to make sure you understand all the possibilities.  
+Se você quer promover o curso na sua cidade, você só precisará baixar ou "forkar" (copiar) este repositório, adaptar o conteúdo às suas necessidades e seguir as nossas sugestões do guia do organizador (se você quiser, claro). Ficaríamos muito felizes em receber o seu retorno, seus comentários, suas impressões e sugestões! Por favor, leia a nossa licença para garantir que você compreende todas as possibilidades de utilização deste material.  
   
 ## Quer saber mais?  
-You can explore this repository for further details. If you want to work on **IGNITE**, please read the contributor guidelines. There you can find the roadmap and the open issues we are currently working on.  
-Also, this project is being supported by the [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) program. If you want to learn about open projects and this program, you can follow their updates.  
+Você pode explorar este repositório para conhecer melhor os detalhes. Se você quer trabalhar no **IGNITE**, por favor, leia as [instruções para colaboração](CONTRIBUTING.md).
+  
+Mais uma coisinha: este projeto faz parte do programa [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/). Se você quer saber mais sobre projetos abertos e este programa, você pode acompanhar as atualizações no site supracitado.  
 
 ## Contato  
 Se você tem alguma pergunta, sugestões ou piadas para contar, você pode simplesmente [abrir um issue](https://github.com/graciellehigino/IGNITE/issues) aqui neste repositório. Você também pode [enviar-me um e-mail](mailto:graciellehigino@gmail.com), se precisar. Quer se divertir nas mídias sociais? Siga-me no [Twitter](https://twitter.com/GracielleHigino) ou no [Instagram](https://www.instagram.com/graciellehigino/).  
@@ -53,4 +56,4 @@ Se você tem alguma pergunta, sugestões ou piadas para contar, você pode simpl
 #### Espero que o IGNITE te inspire! 🧡
 
 ---
-<a name="young">1</a>: "Young" here refers to a state of mind. 😉
+<a name="young">1</a>: "Jovens" aqui se refere a um estado de espírito. 😉
