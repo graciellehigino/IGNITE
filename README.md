@@ -5,7 +5,9 @@
 [*Versão em português (BR) aqui.*](https://github.com/graciellehigino/IGNITE/blob/master/README_pt-br.md)
 
 ## Welcome! 
-I am truly happy to see you here! This is a completly open project, and you can copy, contribute, replicate, reproduce, cut it in half, glue it together, put some glitter on it... and make it even better! Here you can find resources to promote a fun Science Communication workshop (or even study by yourself!). So if you love SciComm and Outreach, jump right in and I am certain that you will find something useful in this repository. Enjoy!  
+I am truly happy to see you here! This is a completly open project, and you can copy, contribute, replicate, reproduce, cut it in half, glue it together, put some glitter on it... and make it even better! Here you can find resources to promote a fun Science Communication workshop (or even study by yourself!).  
+SciComm is the [diffusion of knowledge, and the communication of science and technology among professionals and to the public](http://journals.sagepub.com/home/scxb#). Therefore, in this workshop you will find resources to better communicate with non-specialists, and this includes also other scientists.  
+So if you love SciComm and Outreach, jump right in and I am certain that you will find something useful in this repository. Enjoy!  
 
 * [Why this project exists?](#why-this-project-exists)  
 * [Who am I?](#who-am-i)  
