@@ -2,7 +2,7 @@
 
 Here you can easily find tasks to be done and keep track of the project development. You don't need to follow any order: you can help in any task you feel comfortable with.  
 And most importantly: **don't forget to have _TONS_ of fun!**  
->*Also, don't forget to read our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contribution Guidelines](CONTRIBUTING.md)* :wink:
+>*Also, don't forget to read our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contributing Guidelines](CONTRIBUTING.md)* :wink:
 
 ### Surveys  
 We need two surveys: one to find out scientists' needs on SciComm training, and another one to assess how they are doing after the workshop.  
