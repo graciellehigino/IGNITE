@@ -55,6 +55,11 @@ Also, this project is being supported by the [Mozilla Open Leaders](https://mozi
 ## Contact  
 If you have any questions, suggestions or jokes to share, you can simply [open an issue](https://github.com/graciellehigino/IGNITE/issues) here in this repository. You can also [send me an e-mail](mailto:graciellehigino@gmail.com), if you need. Wanna hang out on social media? Follow me on [Twitter](https://twitter.com/GracielleHigino) or [Instagram](https://www.instagram.com/graciellehigino/).  
 
+Consider joining us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
+
+![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
+
+
 #### I hope IGNITE inspires you! 🧡
 
 ---
