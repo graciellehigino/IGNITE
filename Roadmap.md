@@ -36,7 +36,10 @@ It is always good to count on experts! In this list we will gather information o
 
 ### Visual identity  
 Once the project is up and running, we will need some visual identity to reach a greater number of people.  
-- [ ] Visual identity  
+- [ ] [Visual identity](https://github.com/graciellehigino/IGNITE/issues/5)  
+ 
+It also includes some templates, such as the ones used in the lessons.
+- [ ] [Slides templates](https://github.com/graciellehigino/IGNITE/issues/4)
 
 ### Website  
 We will also need a website (a [GitHub page](https://pages.github.com/)) to make it easier for users to find and explore our material.  
