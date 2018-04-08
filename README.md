@@ -1,4 +1,6 @@
 # 🔥 IGNITE 🔥  
+
+[![Join the chat at https://gitter.im/ignite-project/Lobby](https://badges.gitter.im/ignite-project/Lobby.svg)](https://gitter.im/ignite-project/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   
 **_Fun, short, crowdsourced and reproducible SciComm workshop aimed at young scientists._**  
 
