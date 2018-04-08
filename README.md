@@ -55,7 +55,7 @@ You can explore this repository for further details. If you want to work on **IG
 Also, this project is being supported by the [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) program. If you want to learn about open projects and this program, you can follow their updates.  
 
 ## Contact  
-If you have any questions, suggestions or jokes to share, you can simply [open an issue](https://github.com/graciellehigino/IGNITE/issues) here in this repository. You can also [send me an e-mail](mailto:graciellehigino@gmail.com), if you need. Wanna hang out on social media? Follow me on [Twitter](https://twitter.com/GracielleHigino) or [Instagram](https://www.instagram.com/graciellehigino/).  
+If you have any questions, suggestions or jokes to share, you can simply [open an issue](https://github.com/graciellehigino/IGNITE/issues) here in this repository or [join our chat room](https://gitter.im/ignite-project/Lobby). You can also [send me an e-mail](mailto:graciellehigino@gmail.com), if you need. Wanna hang out on social media? Follow me on [Twitter](https://twitter.com/GracielleHigino) or [Instagram](https://www.instagram.com/graciellehigino/).  
 
 Consider joining us at the [Mozilla's Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](https://foundation.mozilla.org/opportunity/global-sprint/)!
 
