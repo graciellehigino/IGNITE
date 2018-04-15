@@ -8,6 +8,6 @@ This is the basic outline of this lesson:
 1. What is science communication?
 2. Why is it important?
 3. Research and fake news.
-4. How to avoid jargon.
-5. Storytelling.
-6. Organizing information.
+4. Building your Persona.
+5. How to avoid jargon.
+6. Storytelling.
