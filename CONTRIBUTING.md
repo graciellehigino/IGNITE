@@ -58,7 +58,8 @@ Additional resources/
     ⊢funders/  
         ask_for_funding.md  
         potential_funders.md  
-    volunteers_experts.md  
+    volunteers_experts.md 
+    organizer_roadmap.md
 ```
 
 Each lesson subfolder has the same structure. This map can change through the project development, so take a look here once in a while.  
