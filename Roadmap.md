@@ -26,6 +26,10 @@ Translated material is also important. If you need the material translated in a 
 - [ ] Italian  
 - [ ] Chinese
 
+### Organizer Workflow  
+What is a good workflow to help us organize a IGNITE workshop in our own communities?  
+- [ ] Map of instructions to organize a workshop 
+
 ### Funding  
 The basic workshop do not need funding. But it is good to know where to ask for money if you need. We will gather information about potentianl funders so you can always take a look at their open calls.  
 - [ ] List of potential funders  
