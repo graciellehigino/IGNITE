@@ -30,9 +30,9 @@ Translated material is also important. If you need the material translated in a 
 What is a good workflow to help us organize a IGNITE workshop in our own communities?  
 - [ ] Map of instructions to organize a workshop 
 
-### [Funding](https://docs.google.com/spreadsheets/d/1T6WI-dV_aoDTZWtuaXylGdTaCqSsQdwGoq7sUe2Fp4E/edit#gid=0)  
+### Funding  
 The basic workshop do not need funding. But it is good to know where to ask for money if you need. We will gather information about potentianl funders so you can always take a look at their open calls.  
-- [ ] List of potential funders  
+- [ ] [List of potential funders](https://docs.google.com/spreadsheets/d/1T6WI-dV_aoDTZWtuaXylGdTaCqSsQdwGoq7sUe2Fp4E/edit#gid=0)  
 
 ### Collaborators  
 It is always good to count on experts! In this list we will gather information on experts who volunteered to help on the lessons during the workshops.  
