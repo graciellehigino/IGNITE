@@ -72,6 +72,12 @@ GitHub has its own [guides](https://guides.github.com/) which are really useful.
 First of all, let me ask you a question: what do you like to do? How do you have fun? Take your time to think about it...  
 
 
+![](https://media.giphy.com/media/hCiQVo1dzVwPu/giphy.gif)  
+
+
+
+
+
 
 Ok, ready?  
 Now let me give you some options.  
