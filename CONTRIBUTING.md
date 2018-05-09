@@ -86,6 +86,7 @@ Now let me give you some options.
 - If you are more of a webdesign person, you can try the tasks in [Website](#website).  
 - If you enjoy translating things, try the [Translations](#translations) issues.  
 - If you don't like any of these things, but you are curious, interested or hate science communication, you can help us by answering and spreading [the survey](https://goo.gl/forms/6zHbGWoruNiqdfDo2).  
+- If you know how we can make our materials more accessible, try this [issue](https://github.com/graciellehigino/IGNITE/issues/8).
 
 ### [Surveys](https://github.com/graciellehigino/IGNITE/labels/Survey)  
 We will build the surveys in the Google Forms. You can contribute by suggesting questions in the [Issue#1](https://github.com/graciellehigino/IGNITE/issues/1), collecting data (asking people to [answer the questions](https://goo.gl/forms/6zHbGWoruNiqdfDo2) anonimously) or analysing the data collected. Of course users can use the survey to better assess the public of their community. Therefore, it is important that data analysis is reproducible and the scripts are available here in the repo.  
