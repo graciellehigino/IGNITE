@@ -93,7 +93,7 @@ We will build the surveys in the Google Forms. You can contribute by suggesting 
 ### [Lessons](https://github.com/graciellehigino/IGNITE/labels/Lesson)  
 You can discuss the syllabus, suggest sources and modifications in the Issues. Also, you can fork the repo and build class and activities scripts as markdown files. The slides will be primarily made in Google Presentations (you can add you contribution there!), but we can have editable markdown slides aswell.  
 
-### [Translations]()https://github.com/graciellehigino/IGNITE/labels/Translation    
+### [Translations](https://github.com/graciellehigino/IGNITE/labels/Translation)  
 You can fork the repository or copy the files and translate every material available here. If you copy the file, please upload it back in a cloud service or in your own repository and let us know in the Issues where we can find the translation and how we can incorporate it in our project.  
 
 ### [Funding](https://github.com/graciellehigino/IGNITE/labels/Funding)  
