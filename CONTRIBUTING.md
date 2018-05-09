@@ -69,8 +69,19 @@ If you're new to GitHub, take some time to understand how a repository works. Do
 GitHub has its own [guides](https://guides.github.com/) which are really useful. Basically, you need to know how to [file an Issue](https://guides.github.com/features/issues/) and how to contribute directly to the core contents of the project by [submitting a pull request](https://guides.github.com/activities/forking/#making-a-pull-request). Please, be as clear as you can in both cases, describing what is the problem/suggestion/solution in details. Also, be sure that your suggestion/problem/solution was not addressed in another Issue before.
 
 ## How to contribute  
+First of all, let me ask you a question: what do you like to do? How do you have fun? Take your time to think about it...  
+
+
+
+Ok, ready?  
+Now let me give you some options.  
+- If you like to **manage projects**, **organize things**, **networking**, or **marketing**, try the tasks described in [Funding](#funding), [Collaborators](#collaborators), help spreading the survey or organizing a workflow for workshop organizers.  
+- If you like **writing**, **taking photos**, **drawning**, **podcasts**, **public speaking**, **scicomm videos**, or **education**, try the tasks in [Lessons](#lessons). We need to build content and lots of feedback. Feel free to contribute in any language!  
+- If you are more of a webdesign person, you can try the tasks in [Website](#website).  
+- If you don't like any of these things, but you are curious, interested or hate science communication, you can help us by answering and spreading [the survey](https://goo.gl/forms/6zHbGWoruNiqdfDo2).  
+
 ### Surveys  
-We will build the surveys in the Google Forms. You can contribute by suggesting questions in the [Issue#1](https://github.com/graciellehigino/IGNITE/issues/1), collecting data (asking people to answer the questions anonimously) or analysing the data collected. We will have all data available by May 9th. Of course users can use the survey to better assess the public of their community. Therefore, it is important that data analysis is reproducible and the scripts are available here in the repo.  
+We will build the surveys in the Google Forms. You can contribute by suggesting questions in the [Issue#1](https://github.com/graciellehigino/IGNITE/issues/1), collecting data (asking people to [answer the questions](https://goo.gl/forms/6zHbGWoruNiqdfDo2) anonimously) or analysing the data collected. Of course users can use the survey to better assess the public of their community. Therefore, it is important that data analysis is reproducible and the scripts are available here in the repo.  
 
 ### Lessons  
 You can discuss the syllabus, suggest sources and modifications in the Issues. Also, you can fork the repo and build class and activities scripts as markdown files. The slides will be primarily made in Google Presentations (you can add you contribution there!), but we can have editable markdown slides aswell.  
