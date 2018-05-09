@@ -11,7 +11,7 @@ We need two surveys: one to find out scientists' needs on SciComm training, and 
 
 ### Content  
 The basic workshop will be composed by 6 lessons:  
-- [ ] Communication basics  
+- [ ] [Communication basics](https://github.com/graciellehigino/IGNITE/issues/7)  
 - [ ] Writing  
 - [ ] Audio  
 - [ ] Videos  
