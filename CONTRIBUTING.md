@@ -84,25 +84,26 @@ Now let me give you some options.
 - If you like to **manage projects**, **organize things**, **networking**, or **marketing**, try the tasks described in [Funding](#funding), [Collaborators](#collaborators), help spreading the survey or organizing a workflow for workshop organizers.  
 - If you like **writing**, **taking photos**, **drawning**, **podcasts**, **public speaking**, **scicomm videos**, or **education**, try the tasks in [Lessons](#lessons). We need to build content and lots of feedback. Feel free to contribute in any language!  
 - If you are more of a webdesign person, you can try the tasks in [Website](#website).  
+- If you enjoy translating things, try the [Translations](#translations) issues.  
 - If you don't like any of these things, but you are curious, interested or hate science communication, you can help us by answering and spreading [the survey](https://goo.gl/forms/6zHbGWoruNiqdfDo2).  
 
-### Surveys  
+### [Surveys](https://github.com/graciellehigino/IGNITE/labels/Survey)  
 We will build the surveys in the Google Forms. You can contribute by suggesting questions in the [Issue#1](https://github.com/graciellehigino/IGNITE/issues/1), collecting data (asking people to [answer the questions](https://goo.gl/forms/6zHbGWoruNiqdfDo2) anonimously) or analysing the data collected. Of course users can use the survey to better assess the public of their community. Therefore, it is important that data analysis is reproducible and the scripts are available here in the repo.  
 
-### Lessons  
+### [Lessons](https://github.com/graciellehigino/IGNITE/labels/Lesson)  
 You can discuss the syllabus, suggest sources and modifications in the Issues. Also, you can fork the repo and build class and activities scripts as markdown files. The slides will be primarily made in Google Presentations (you can add you contribution there!), but we can have editable markdown slides aswell.  
 
-### Translations    
+### [Translations]()https://github.com/graciellehigino/IGNITE/labels/Translation    
 You can fork the repository or copy the files and translate every material available here. If you copy the file, please upload it back in a cloud service or in your own repository and let us know in the Issues where we can find the translation and how we can incorporate it in our project.  
 
-### Funding  
+### [Funding](https://github.com/graciellehigino/IGNITE/labels/Funding)  
 We will keep an editable Google Sheet (with detailed metadata) where you can provide all information you have about potential funders. If you want to, you can create a markdown document with tips for asking for funding and make a pull request for us to add it to our repository.  
 
-### Collaborators  
+### [Collaborators](https://github.com/graciellehigino/IGNITE/labels/Collaborators)  
 If want to be part of this workshop as an expert or know someone who would love to help, you can fill a simple form with your infos (or send it to your friend) and we will make it available here so hosters can invite you to participate in their workshops.  
 
-### Visual Identity  
+### [Visual Identity](https://github.com/graciellehigino/IGNITE/labels/visual%20identity)  
 Your design skills are very needed! Feel free to work however you want, and you can link your material in the Issues. There you can also discuss with other contributors about your ideas.  
 
-### Website  
+### [Website](https://github.com/graciellehigino/IGNITE/labels/website)  
 It is preferable that we build a free and open source website (maybe a [GitHub page](https://pages.github.com/)?) that we can use this very repo to host. Discuss your needs in the Issues and we will find solutions.  
