@@ -1,4 +1,5 @@
-**[Slides link goes here]**  
+**[Slides](https://docs.google.com/presentation/d/1gJ0DbWRYvKdgpzCfLOLcOn7jGwrhcdYArGSeNmkN-i8/edit?usp=sharing)**  
+**[Activities roadmap goes here]**
 
 ## Why this lesson exists?  
 We are going to start with communication basics because we need to build a common background with participants. It is important that everyone think about why it is important to communicate their research, how we can do it and get familiarized with communication jargons.  
