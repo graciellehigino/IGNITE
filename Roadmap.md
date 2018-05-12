@@ -13,10 +13,10 @@ We need two surveys: one to find out scientists' needs on SciComm training, and 
 The basic workshop will be composed by 6 lessons:  
 - [ ] [Communication basics](https://github.com/graciellehigino/IGNITE/issues/7)  
 - [ ] Writing  
-- [ ] Audio  
+- [ ] [Audio](https://github.com/graciellehigino/IGNITE/issues/12)  
 - [ ] Videos  
-- [ ] Images  
-- [ ] Talks  
+- [ ] [Images](https://github.com/graciellehigino/IGNITE/issues/10)  
+- [ ] [Talks](https://github.com/graciellehigino/IGNITE/issues/11)  
 
 Translated material is also important. If you need the material translated in a language not listed in here, you can open an Issue and we will try to find someone to help.  
 - [ ] Portuguese  
@@ -47,6 +47,6 @@ It also includes some templates, such as the ones used in the lessons.
 
 ### Website  
 We will also need a website (a [GitHub page](https://pages.github.com/)) to make it easier for users to find and explore our material.  
-- [ ] Website  
+- [ ] [Website](https://github.com/graciellehigino/ignite_website)  
 
 That's basically it! You can find details on each task (and subtasks) on corresponding issues. Don't hesitate to ask for help, and, once again: **have fun!**
