@@ -1,4 +1,4 @@
-#Roteiro  
+# Roteiro  
 Aqui você pode encontrar tarefas a serem realizadas e acompanhar o desenvolvimento do projeto. Você não precisa seguir nenhuma ordem: você pode ajudar em qualquer tarefa que for mais agradável pra você.
 E mais importante: **Não se esqueça de se _DIVERTIR_ muito!**  
 >*Além disso, não se esqueça de ler nosso [Código de Conduta](CODE_OF_CONDUCT.md) e nosso [Guia de Contribuições](CONTRIBUTING.md)* :wink:
