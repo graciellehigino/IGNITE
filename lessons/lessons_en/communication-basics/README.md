@@ -12,3 +12,4 @@ This is the basic outline of this lesson:
 4. Building your Persona.
 5. How to avoid jargon.
 6. Storytelling.
+7. Bonus: communicating with the press, with the government and with the industry.
