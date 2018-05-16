@@ -45,8 +45,13 @@ Isso também inclui alguns modelos, como os usados nas lições.
 - [x] [Modelos dos slides](https://github.com/graciellehigino/IGNITE/issues/4)
 
 ### Website  
-Nós também precisamos de um website (a [GitHub page](https://pages.github.com/)) para que os usuários encontrem e explorem nosso material com maior facilidade.
+Nós também precisamos de um website para que os usuários encontrem e explorem nosso material com maior facilidade. Ele está em construção neste endereço [aqui](https://graciellehigino.github.io/ignite_website/) (obrigada, [Alexander](https://github.com/vektorious)!).
 - [ ] Website  
 
 É basicamente isso! Você pode encontrar mais detalhes sobre cada tarefa (e subtarefas) correspondentes na seção Issue.
-Não hesitem em pedir ajuda e, mais uma vez: ** Divirta-se!**
+Não hesitem em pedir ajuda e, mais uma vez: **divirta-se!**  
+  
+  
+___
+
+*Obrigada à [Daisy Jorge](https://github.com/DaiJorge) pela tradução.* :heart:
