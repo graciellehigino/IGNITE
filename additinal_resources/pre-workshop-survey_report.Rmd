@@ -1,0 +1,169 @@
+---
+title: "IGNITE Pre-Workshop Survey Analysis"
+author: "Gracielle Higino"
+date: "19 de junho de 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#Load packages----
+#https://gist.github.com/stevenworthington/3178163
+ipak <- function(pkg){
+    new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+    if (length(new.pkg)) 
+        install.packages(new.pkg, dependencies = TRUE)
+    sapply(pkg, require, character.only = TRUE)
+}
+
+packages <- c("googlesheets")
+ipak(packages)
+rm(packages,ipak)
+
+```
+**Welcome!**
+---
+
+It's great that you've decided to assess your community needs concerning science communication! This is the basic routine for you to analyse the answers to the pre-workshop survey. We are going to load the data directly from Google Sheets using the `googlesheets` package. You only need to go to your form edit mode, mark the option to stop recieving answers and click on the green icon that leads to the Google Spreadsheet with all the answers. Then you click on "share" and copy the link in the function below. In this tutorial, I'm using the data from the Survey that was used during the Global Sprint. Enjoy!
+---
+This is the code for loading the data:
+```{r Loading Data, warning=FALSE, message=FALSE}
+ans<-gs_read(gs_url("https://docs.google.com/spreadsheets/d/1lZ581hXijaIAKmv8DbuB5AweWFniMY3nqy1MyytmU3k/edit?usp=sharing"))
+```
+Now we have our data in the object `ans` and we can use basic functions to analyse frequencies.
+
+### Who answered the survey?
+How many answers did this survey get?
+```{r echo=FALSE}
+nrow(ans)
+```
+
+
+```{r echo=FALSE}
+# Use these barplots to questions with options.
+colnames.ans<-colnames(ans)
+barplot(table(ans[,13]), ylab="Frequency", col="coral3", border = NA, main = "If you're in academia, what's your current position?", las=1, cex.names = 0.5)
+```
+
+### Have they ever done any SciComm?
+```{r echo=FALSE}
+barplot(table(ans[,3]), xlab="Answers", ylab="Frequency", col="coral3", border = NA, main = colnames.ans[3])
+
+barplot(table(ans[,4]), ylab="Frequency", col="coral3", border = NA, main = colnames.ans[4], las=2)
+```
+
+Notice that in the barplot above, there are five answers that includes **"I don't know how to do it"**, three include **"I'm shy"** and two include **"I don't have the time"**. Those are the major concerns of people who has never done any SciComm. Therefore, we must focus on presenting tools and work on developed skills, boost self-confidence and present solutions to manage the time to do SciComm and research/teaching.
+
+```{r echo=FALSE}
+barplot(table(ans[,5]), ylab="Frequency", col="coral3", border = NA, main = colnames.ans[5])
+```
+
+#### When they explain their answers, the most common words are:
+
+To do the wordcloud, We are going to load three packages: `tm`, `wordcloud` and `SnowballC`. You can also load the RColorBrewer package, if you want to (I did). 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tm)
+library(SnowballC)
+keywords.corpus<-Corpus(DataframeSource(ans[6]))
+keywords.corpus<-tm_map(keywords.corpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+keywords.corpus<-tm_map(keywords.corpus, removeWords, stopwords("english"))
+keywords.corpus<-tm_map(keywords.corpus, stemDocument)
+keywords.matrix<-DocumentTermMatrix(keywords.corpus, control=list(weighting=weightTf))
+count.keywords<-as.data.frame(inspect(keywords.matrix))
+count.keywords<-colSums(count.keywords)
+pal <- RColorBrewer::brewer.pal(10,"Spectral")
+set.seed(123)
+wordcloud::wordcloud(words = keywords.corpus, scale=c(5,0.1), max.words=50,min.freq=19, random.order=FALSE, 
+          rot.per=0.35, use.r.layout=FALSE, colors=pal)
+```
+
+### But, hey, what does Science Communication mean to them?
+
+```{r echo=FALSE}
+keywords.corpus<-Corpus(DataframeSource(ans[2]))
+keywords.corpus<-tm_map(keywords.corpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+keywords.corpus<-tm_map(keywords.corpus, removeWords, stopwords("english"))
+keywords.corpus<-tm_map(keywords.corpus, stemDocument)
+keywords.matrix<-DocumentTermMatrix(keywords.corpus, control=list(weighting=weightTf))
+count.keywords<-as.data.frame(inspect(keywords.matrix))
+count.keywords<-colSums(count.keywords)
+pal <- RColorBrewer::brewer.pal(10,"Spectral")
+set.seed(123)
+wordcloud::wordcloud(words = keywords.corpus, scale=c(5,0.1), max.words=50,min.freq=19, random.order=FALSE, 
+          rot.per=0.35, use.r.layout=FALSE, colors=pal)
+```
+
+We can notice a prevalence of the idea of **sharing** knowledge to the "general public". This is great, sharing is indeed a key concept in science communication. However, the idea of "general public" sometimes need to be clarified. Who is this "general public"? Are scientists involved? Do I have to share only with people outside the Academia?
+
+### Have they ever received any training in Science Communication?
+```{r echo=FALSE}
+barplot(table(ans[,7]), ylab="Frequency", col="coral3", border = NA, main = colnames.ans[7])
+```
+
+As expected, a huge amount of people didn't receive any SciComm training, despite being interested in it. Scientists usually don't have any training in this matter during their academic formation, and when they need it the most, which is between grad school and senior position, they don't know how to do it and find hard to take some time to learn it. As SciComm trainers, we need to cope with that and find ways to offer training that is not much time consuming and attractive to their career stage.
+
+### What aspects of communication do they consider being their **strengths**?
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+keywords.corpus<-Corpus(DataframeSource(ans[9]))
+keywords.corpus<-tm_map(keywords.corpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+keywords.corpus<-tm_map(keywords.corpus, removeWords, stopwords("english"))
+keywords.corpus<-tm_map(keywords.corpus, stemDocument)
+keywords.matrix<-DocumentTermMatrix(keywords.corpus, control=list(weighting=weightTf))
+count.keywords<-as.data.frame(inspect(keywords.matrix))
+count.keywords<-colSums(count.keywords)
+pal <- RColorBrewer::brewer.pal(10,"Spectral")
+set.seed(123)
+wordcloud::wordcloud(words = keywords.corpus, scale=c(5,0.1), max.words=50,min.freq=1, random.order=FALSE, 
+          rot.per=0.35, use.r.layout=FALSE, colors=pal)
+```
+
+Scientists receive a lot of training in writing and speaking. This is a good starting point, although academic writing and speaking are often a little bit different from the SciComm products.
+
+
+### What aspects of communication do they consider being their **weaknesses**?
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+keywords.corpus<-Corpus(DataframeSource(ans[10]))
+keywords.corpus<-tm_map(keywords.corpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+keywords.corpus<-tm_map(keywords.corpus, removeWords, stopwords("english"))
+keywords.corpus<-tm_map(keywords.corpus, stemDocument)
+keywords.matrix<-DocumentTermMatrix(keywords.corpus, control=list(weighting=weightTf))
+count.keywords<-as.data.frame(inspect(keywords.matrix))
+count.keywords<-colSums(count.keywords)
+pal <- RColorBrewer::brewer.pal(10,"Spectral")
+set.seed(123)
+wordcloud::wordcloud(words = keywords.corpus, scale=c(5,0.1), max.words=50,min.freq=1, random.order=FALSE, 
+          rot.per=0.35, use.r.layout=FALSE, colors=pal)
+```
+
+Ironically, "writing" and "public speaking" appear here too. However, we can identify the lack of hability in areas more related to arts, such as drawning and improvisation. This reflects the common opinion that STEM and Arts are separate disciplines.
+
+### Do they consume SciComm media?
+
+```{r echo=FALSE}
+barplot(table(ans[,11]), ylab="Frequency", col="coral3", border = NA, main = colnames.ans[11])
+```
+
+#### Which ones?
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+keywords.corpus<-Corpus(DataframeSource(ans[12]))
+keywords.corpus<-tm_map(keywords.corpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+keywords.corpus<-tm_map(keywords.corpus, removeWords, stopwords("english"))
+keywords.corpus<-tm_map(keywords.corpus, stemDocument)
+keywords.matrix<-DocumentTermMatrix(keywords.corpus, control=list(weighting=weightTf))
+count.keywords<-as.data.frame(inspect(keywords.matrix))
+count.keywords<-colSums(count.keywords)
+pal <- RColorBrewer::brewer.pal(10,"Spectral")
+set.seed(123)
+wordcloud::wordcloud(words = keywords.corpus, scale=c(5,0.1), max.words=50,min.freq=1, random.order=FALSE, 
+          rot.per=0.35, use.r.layout=FALSE, colors=pal)
+```
+
+Any surprises here? As instructors, we can reverse this knowledge from consumption to production. What are the things they like in social media? Why is this media so compelling? What are the aspects of social media that we can transfer to other products?
+
+---
+
+This is the analysis of the answers to the pilot pre-workshop survey of the IGNITE project. Most of the answers were registered during the [Mozilla's Global Sprint 2018](https://medium.com/read-write-participate/global-sprint-2018-what-we-built-6253d48aafe8). If you want to learn more about IGNITE, check our GitHub repo [here](https://github.com/graciellehigino/IGNITE). This document is under a CC-0 license: feel free to reuse, remix, and distribute as you will!
