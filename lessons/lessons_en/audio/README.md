@@ -1,4 +1,4 @@
-**[Slides go here]**  
+**[Slides](https://docs.google.com/presentation/d/11UE2jcsfGtUmd9maiaB0zXwJUDqOUtTj5AhdPHpHHc8/edit?usp=sharing)**  
 **[Activities go here]**
 
 ## Why this lesson exists?  
