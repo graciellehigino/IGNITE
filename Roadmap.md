@@ -6,20 +6,20 @@ And most importantly: **don't forget to have _TONS_ of fun!**
 
 ### Surveys  
 We need two surveys: one to find out scientists' needs on SciComm training, and another one to assess how they are doing after the workshop.  
-- [ ] [Pre-workshop survey](https://github.com/graciellehigino/IGNITE/issues/1)  
-- [ ] Post-workshop survey  
+- [x] [Pre-workshop survey](https://github.com/graciellehigino/IGNITE/issues/1)  
+- [x] Post-workshop survey  
 
 ### Content  
 The basic workshop will be composed by 6 lessons:  
-- [ ] [Communication basics](https://github.com/graciellehigino/IGNITE/issues/7)  
-- [ ] Writing  
+- [x] [Communication basics](https://github.com/graciellehigino/IGNITE/issues/7)  
+- [x] Writing  
 - [ ] [Audio](https://github.com/graciellehigino/IGNITE/issues/12)  
 - [ ] Videos  
 - [ ] [Images](https://github.com/graciellehigino/IGNITE/issues/10)  
 - [ ] [Talks](https://github.com/graciellehigino/IGNITE/issues/11)  
 
 Translated material is also important. If you need the material translated in a language not listed in here, you can open an Issue and we will try to find someone to help.  
-- [ ] Portuguese  
+- [x] Portuguese  
 - [ ] French  
 - [ ] German  
 - [ ] Spanish  
@@ -36,17 +36,17 @@ The basic workshop do not need funding. But it is good to know where to ask for 
 
 ### Collaborators  
 It is always good to count on experts! In this list we will gather information on experts who volunteered to help on the lessons during the workshops.  
-- [ ] [List of experts](https://goo.gl/v5kETy)
+- [x] [List of experts](https://goo.gl/v5kETy)
 
 ### Visual identity  
 Once the project is up and running, we will need some visual identity to reach a greater number of people.  
-- [ ] [Visual identity](https://github.com/graciellehigino/IGNITE/issues/5)  
+- [x] [Visual identity](https://github.com/graciellehigino/IGNITE/issues/5)  
  
 It also includes some templates, such as the ones used in the lessons.
-- [ ] [Slides templates](https://github.com/graciellehigino/IGNITE/issues/4)
+- [x] [Slides templates](https://github.com/graciellehigino/IGNITE/issues/4)
 
 ### Website  
 We will also need a website (a [GitHub page](https://pages.github.com/)) to make it easier for users to find and explore our material.  
-- [ ] [Website](https://github.com/graciellehigino/ignite_website)  
+- [x] [Website](http://ignitescicomm.com/)  
 
 That's basically it! You can find details on each task (and subtasks) on corresponding issues. Don't hesitate to ask for help, and, once again: **have fun!**
