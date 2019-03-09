@@ -3,3 +3,4 @@
 [Prepare-se para entrevistas](https://docs.google.com/document/d/1pAOWY3Q-BZmOMpzlBnumPpSZBuIrKYoWVkhFI3pLX74/edit?usp=sharing)  
 [Modelo de projeto-Canvas](https://github.com/graciellehigino/IGNITE/files/2307242/Modelo_de_projeto-Canvas.pdf)  
 [Modelo de projeto-Canvas Splash](https://github.com/graciellehigino/IGNITE/files/2307243/Modelo_de_projeto-Canvas_Splash.pdf)  
+[Golden Circle](https://docs.google.com/document/d/1gqpHQovUK0s-PO6e81tJHIJ0RhzoOEaZhkCnurxRk-M/edit)
